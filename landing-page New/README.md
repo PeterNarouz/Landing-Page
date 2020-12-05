@@ -22,7 +22,7 @@ document.querySelectorAll('')
 .classList.remove('')
 .classList.add('')
 .classList.toggle('')
-
+```
 
 ## Table of Contents
 
